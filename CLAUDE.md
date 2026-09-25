@@ -9,3 +9,4 @@ This repository was just initialized and contains no code yet — there is no bu
 ## Conventions
 
 - The user communicates in Brazilian Portuguese; reply in Portuguese.
+- A PostToolUse hook (`.claude/hooks/auto-commit.sh`) commits and pushes to `origin/main` (github.com/rafaOnlineTech/aprendizado) after every Write/Edit, so don't commit manually.
